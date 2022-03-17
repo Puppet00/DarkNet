@@ -25,4 +25,4 @@
 ###### <p align="center"> [**DarkNet**](https://github.com/D4RK-4RMY/DarkNet) ❤️ By [**DARKARMY**](https://darkarmy.live/)
 ###### <p align="center"> *You can check our [WebSite](https://darkarmy.live/)✌*
 
-###### <p align="center">DarkNet DDoS Panel<p align="center">
+###### <p align="center">DarkNet DDoS panel with methods for Layer 7 and Layer 4!<p align="center">
