@@ -41,8 +41,6 @@
 `python3 darknet.py`
 
 
-
-
 `By D4rk4rmy`
 
 ### <h2 align="center">😈 Visit 😈 </h2>
