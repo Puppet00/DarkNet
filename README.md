@@ -26,3 +26,27 @@
 ###### <p align="center"> *You can check our [WebSite](https://darkarmy.live/)✌*
 
 ###### <p align="center">DarkNet DDoS panel with methods for Layer 7 and Layer 4!<p align="center">
+  
+  <p align="center">
+
+  <img src="https://github.com/D4RK-4RMY/DarkNet/blob/main/darknet.png" alt="ss"/>
+
+</p>
+  
+# Build and install from source
+`git clone https://github.com/D4RK-4RMY/DarkNet.git`
+
+`cd DarkNet`
+
+`python3 darknet.py`
+
+
+
+
+`By D4rk4rmy`
+
+### <h2 align="center">😈 Visit 😈 </h2>
+<p align="center">
+<a href="https://darkarmy.live/"><img title="D4RK4RMY" src="https://img.shields.io/badge/D4RK4RMY-%23E4405F.svg?&style=for-the-badge&logo=web&logoColor=white"></a>
+</p>
+
