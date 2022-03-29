@@ -42,6 +42,11 @@
 
 `python3 darknet.py`
 
+#### Tested on:
+
+Windows 10
+
+Kali Linux
 
 `By D4rk4rmy`
 
