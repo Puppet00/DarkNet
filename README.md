@@ -38,6 +38,8 @@
 
 `cd DarkNet`
 
+`pip install -r requirements.txt`
+
 `python3 darknet.py`
 
 
